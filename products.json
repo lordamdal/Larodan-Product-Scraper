@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "10-1001",
+    "name": "2(E)-Decenoic acid",
+    "CAS": "",
+    "structure": "C10H18O2",
+    "smiles": "C(CCCCCC)/C=C/C(O)=O",
+    "description": "",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/2e-decenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "2-trans-Decenoic acid",
+      "g"
+    ],
+    "packaging": {
+      "100 mg": "100.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1004",
+    "name": "4(Z)-Decenoic acid",
+    "CAS": "",
+    "structure": "C10H18O2",
+    "smiles": "C(=C\\CCCCC)\\CCC(O)=O",
+    "description": "",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/4z-decenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "4-cis-Decenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "120.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1009",
+    "name": "9-Decenoic acid",
+    "CAS": "",
+    "structure": "C10H18O2",
+    "smiles": "C(CCCCC=C)CCC(O)=O",
+    "description": "",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/9-decenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1009_ENG.pdf",
+    "synonyms": [
+      "Caproleic acid"
+    ],
+    "packaging": {
+      "1 g": "99.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1101",
+    "name": "10-Undecenoic acid",
+    "CAS": "",
+    "structure": "C11H20O2",
+    "smiles": "C(CCCCC=C)CCCC(O)=O",
+    "description": "",
+    "molecular_weight": "184.28",
+    "url": "https://www.larodan.com/product/10-undecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1101_ENG.pdf",
+    "synonyms": [
+      "10-Hendecenoic acid",
+      "\u03c9-Hendecenoic acid",
+      "NSC 2013",
+      "Undecylenic acid",
+      "\u03c9-Undecenoic acid",
+      "10-Undecylenic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "105.00 \u20ac",
+      "100 mg": "30.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1201",
+    "name": "11-Dodecenoic acid",
+    "CAS": "",
+    "structure": "C12H22O2",
+    "smiles": "C(CCCCCCC=C)CCC(O)=O",
+    "description": "",
+    "molecular_weight": "198.3",
+    "url": "https://www.larodan.com/product/11-dodecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1201_ENG.pdf",
+    "synonyms": [
+      "1\u03c911"
+    ],
+    "packaging": {
+      "5 x 100 mg": "",
+      "100 mg": "71.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1301",
+    "name": "12-Tridecenoic acid",
+    "CAS": "",
+    "structure": "C13H24O2",
+    "smiles": "C(CCCCCCCC=C)CCC(O)=O",
+    "description": "",
+    "molecular_weight": "212.33",
+    "url": "https://www.larodan.com/product/12-tridecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1301_ENG.pdf",
+    "synonyms": [
+      "(10-Undecenyl)acetic acid",
+      "\u03c9-Tridecenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "196.00 \u20ac",
+      "100 mg": "85.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1401",
+    "name": "9(Z)-Tetradecanoic acid",
+    "CAS": "",
+    "structure": "C14H26O2",
+    "smiles": "C(CCC=CCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "226.36",
+    "url": "https://www.larodan.com/product/9z-tetradecanoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1401_ENG.pdf",
+    "synonyms": [
+      "Myristoleic acid",
+      "9-Tetradecenoic acid",
+      "(Z)-",
+      "Myristolenic acid",
+      "Oleomyristic acid",
+      "(9Z)-9-Tetradecenoic acid [...]",
+      "9(Z)-Tetradecenoic acid",
+      "cis-9-Tetradecenoic acid",
+      "cis-\u03949-Tetradecenoic acid",
+      "(9Z)-Tetradeca-9-enoic acid",
+      "(Z)-9-Tetradecenoic acid",
+      "9-cis-Tetradecenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "437.00 \u20ac",
+      "100 mg": "143.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1402",
+    "name": "9(E)-Tetradecanoic acid",
+    "CAS": "",
+    "structure": "C14H26O2",
+    "smiles": "C(CC/C=C/CCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "226.36",
+    "url": "https://www.larodan.com/product/9e-tetradecanoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1402_ENG.pdf",
+    "synonyms": [
+      "E-9-Tetradecenoic acid",
+      "Myristelaidic acid",
+      "trans-9-Tetradecenoic acid",
+      "9-Tetradecenoic acid",
+      "(E)- [...]",
+      "(E)-9-Tetradecenoic acid",
+      "(9E)-9-Tetradecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "136.00 \u20ac",
+      "100 mg": "320.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1420",
+    "name": "2(Z)-Tetradecenoic acid",
+    "CAS": "",
+    "structure": "C14H26O2",
+    "smiles": "C(CCCCCCCC)CC/C=C\\C(O)=O",
+    "description": "",
+    "molecular_weight": "226,36",
+    "url": "https://www.larodan.com/product/2z-tetradecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "cis-2-Tetradecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "",
+      "5 mg": "300.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1501",
+    "name": "10(Z)-Pentadecenoic acid",
+    "CAS": "",
+    "structure": "C15H28O2",
+    "smiles": "C(CCC=CCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/10z-pentadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1501_ENG.pdf",
+    "synonyms": [
+      "10-Pentadecenoic acid",
+      "(Z)-",
+      "(10Z)-10-Pentadecenoic acid",
+      "cis-10-Pentadecenoic acid",
+      "(Z)-10-Pentadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "136.00 \u20ac",
+      "50 mg": "207.00 \u20ac",
+      "100 mg": "273.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1511",
+    "name": "10(E)-Pentadecenoic acid",
+    "CAS": "",
+    "structure": "C15H28O2",
+    "smiles": "C(CCC=CCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/10e-pentadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1511_ENG.pdf",
+    "synonyms": [
+      "(10E)-10-Pentadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "173.00 \u20ac",
+      "100 mg": ""
+    }
+  },
+  {
+    "id": "10-1514",
+    "name": "14-Pentadecenoic acid",
+    "CAS": "",
+    "structure": "C15H28O2",
+    "smiles": "C(CCCCCCC=C)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/14-pentadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "\u03c9-Pentadecenoic acid"
+    ],
+    "packaging": {
+      "100 mg": "207.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1601",
+    "name": "9(Z)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(CCC=CCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/9z-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1601_ENG.pdf",
+    "synonyms": [
+      "1",
+      "9Z-Hexadecenoic acid",
+      "(Z)-Hexadec-9-enoic acid",
+      "(9Z)-9-Hexadecenoic acid",
+      "9-Hexadecenoic acid",
+      "9-Hexadecenoic acid",
+      "(Z)-"
+    ],
+    "packaging": {
+      "5 x 100 mg": "163.00 \u20ac",
+      "100 mg": "54.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1602",
+    "name": "9(E)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(CCC=CCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/9e-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1602_ENG.pdf",
+    "synonyms": [
+      "Palmitelaidic acid",
+      "(E)-9-Hexadecenoic acid",
+      "trans-9-Hexadecenoic acid",
+      "(9E)-9-Hexadecenoic acid [...]",
+      "(E)-Hexadec-9-enoic acid",
+      "9-trans-Hexadecenoic acid",
+      "trans-Palmitoleic acid",
+      "9-Hexadecenoic acid",
+      "(E)-"
+    ],
+    "packaging": {
+      "1 g": "207.00 \u20ac",
+      "5 x 100 mg": "163.00 \u20ac",
+      "100 mg": "54.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1606",
+    "name": "6(Z)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(=CCCCCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/6z-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1606_ENG-1.pdf",
+    "synonyms": [
+      "1\u03c910",
+      "Sapienic acid",
+      "cis-6-Hexadecenoic acid",
+      "(6Z)-6-Hexadecenoic acid"
+    ],
+    "packaging": {
+      "1 g": "",
+      "5 mg": "115.00 \u20ac",
+      "25 mg": "288.00 \u20ac",
+      "100 mg": "575.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1607",
+    "name": "7(Z)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(C=CCCCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/7z-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1607_ENG.pdf",
+    "synonyms": [
+      "cis-7-Hexadecenoic acid",
+      "Hypogeic acid",
+      "(7Z)-7-Hexadecenoic acid",
+      "(Z)-7-Hexadecenoic acid",
+      "7Z-Hexadecenoic acid",
+      "7-Hexadecenoic acid",
+      "(Z)-"
+    ],
+    "packaging": {
+      "10 mg": "130.00 \u20ac",
+      "50 mg": "525.00 \u20ac",
+      "100 mg": "980.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1608",
+    "name": "2(E)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(CCCCCCCCCC)CCC=CC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/2e-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1608_ENG.pdf",
+    "synonyms": [
+      "2-Hexadecenoic acid",
+      "(E)-",
+      "(2E)-2-Hexadecenoic acid",
+      "trans-2-Hexadecenoic acid",
+      "(E)-2-Hexadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "230.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1609",
+    "name": "2(Z)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(CCCCCCCCCC)CCC=CC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/2z-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "2-Hexadecenoic acid",
+      "(Z)-",
+      "(2Z)-2-Hexadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1611",
+    "name": "11(Z)-Hexadecenoic acid",
+    "CAS": "",
+    "structure": "C16H30O2",
+    "smiles": "C(CCCCC=CCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/11z-hexadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1611_ENG.pdf",
+    "synonyms": [
+      "cis-11-Hexadecenoic acid",
+      "(Z)-11-Hexadecenoic acid",
+      "(11Z)-11-Hexadecenoic acid",
+      "11-Hexadecenoic acid",
+      "(Z)- [...]",
+      "Hexadec-11(Z)-enoic acid",
+      "\u039411-Hexadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "100 mg": ""
+    }
+  },
+  {
+    "id": "10-1701",
+    "name": "10(Z)-Heptadecenoic acid",
+    "CAS": "",
+    "structure": "C17H32O2",
+    "smiles": "C(CCCC=CCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/10z-heptadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1701_ENG.pdf",
+    "synonyms": [
+      "Z 10-Heptadecenoic acid",
+      "10-Heptadecenoic acid",
+      "(Z)-",
+      "(10Z)-10-Heptadecenoic acid",
+      "cis-10-Heptadecenoic acid [...]",
+      "10Z-Heptadecenoic acid",
+      "10-cis-Heptadecenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "215.00 \u20ac",
+      "100 mg": "76.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1702",
+    "name": "10(E)-Heptadecenoic acid",
+    "CAS": "",
+    "structure": "C17H32O2",
+    "smiles": "C(CCCC=CCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/10e-heptadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1702_ENG.pdf",
+    "synonyms": [
+      "10-Heptadecenoic acid",
+      "(E)-",
+      "(10E)-10-Heptadecenoic acid"
+    ],
+    "packaging": {
+      "500 mg": "472.00 \u20ac",
+      "1 g": "909.00 \u20ac",
+      "3 x 25 mg": "197.00 \u20ac",
+      "25 mg": "99.00 \u20ac",
+      "100 mg": "170.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1709",
+    "name": "9(Z)-Heptadecenoic acid",
+    "CAS": "",
+    "structure": "C17H32O2",
+    "smiles": "C(CCC=CCCCCCCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/9z-heptadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1709_ENG Ethanol.pdf",
+    "synonyms": [
+      "(Z)-9-Heptadecenoic acid",
+      "cis-n-9-Heptadecenoic acid",
+      "(Z)-Heptadec-9-enoic acid",
+      "Margaroleic acid [...]",
+      "(9Z)-9-Heptadecenoic acid",
+      "9-Heptadecenoic acid",
+      "(Z)-",
+      "cis-9-Heptadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1723",
+    "name": "13(E)-Heptadecenoic acid",
+    "CAS": "",
+    "structure": "C17H32O2",
+    "smiles": "C(CCCCCC/C=C/CCC)CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "268,44",
+    "url": "https://www.larodan.com/product/13e-heptadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [],
+    "packaging": {
+      "5 mg": ""
+    }
+  },
+  {
+    "id": "10-1801",
+    "name": "9(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CC=CCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/9z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1801_ENG.pdf",
+    "synonyms": [
+      "1n9c",
+      "(18",
+      "9-Olefin) oleic acid"
+    ],
+    "packaging": {
+      "1 g": "36.00 \u20ac",
+      "10 g": "140.00 \u20ac",
+      "100 g": "500.00 \u20ac",
+      "1 kg": "2,000.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1805",
+    "name": "5(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCCCCCCCC)C=CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/5z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1805_ENG-v2.pdf",
+    "synonyms": [
+      "(Z)-5-Octadecenoic acid",
+      "\u03945",
+      "6-Octadecenoic acid",
+      "\u03945-cis-Octadecenoic acid",
+      "(5Z)-5-Octadecenoic acid [...]",
+      "5-Octadecenoic acid",
+      "(Z)-",
+      "cis-5-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "25 mg": ""
+    }
+  },
+  {
+    "id": "10-1806",
+    "name": "2(E)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCCCCCCCC)CCCC=CC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/2e-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1806_ENG.pdf",
+    "synonyms": [
+      "2-Octadecenoic acid",
+      "(E)-",
+      "(2E)-2-Octadecenoic acid",
+      "trans-2-Octadecenoic acid",
+      "(E)-2-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1807",
+    "name": "7(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(=CCCCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/7z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1807_ENG.pdf",
+    "synonyms": [
+      "(7Z)-7-Octadecenoic acid",
+      "7-Octadecenoic acid",
+      "cis-",
+      "\u03947-cis-Octadecenoic acid",
+      "7-Octadecenoic acid",
+      "(Z)- [...]",
+      "(Z)-7-Octadecenoic acid",
+      "cis-7-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1809",
+    "name": "6(E)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCCCCCCCC)=CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/6e-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1809_ENG.pdf",
+    "synonyms": [
+      "1-6t"
+    ],
+    "packaging": {
+      "1 g": "219.00 \u20ac",
+      "5 g": "610.00 \u20ac",
+      "10 g": "1,058.00 \u20ac",
+      "100 mg": "74.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1810",
+    "name": "9(E)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CC=CCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/9e-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1810_ENG.pdf",
+    "synonyms": [
+      "trans-9-Octadecenoic acid",
+      "9-Octadecenoic acid",
+      "(E)-",
+      "NSC 26988",
+      "Elaidinic acid",
+      "(E)-9-Octadecenoic acid [...]",
+      "(9E)-9-Octadecenoic acid",
+      "\u03949-trans-Octadecenoic acid",
+      "trans-Elaidic acid",
+      "9-trans-Oleic acid",
+      "9-trans-Octadecenoic acid",
+      "(9E)-Octadecenoic acid",
+      "(E)-Oleic acid",
+      "trans-\u03949-Octadecenoic acid",
+      "Elaidic acid",
+      "trans-Oleic acid"
+    ],
+    "packaging": {
+      "1 g": "67.00 \u20ac",
+      "5 x 1 g": "215.00 \u20ac",
+      "100 mg": "46.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1811",
+    "name": "6(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCCCCCCCC)=CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/6z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1811_ENG.pdf",
+    "synonyms": [
+      "Petroselic acid",
+      "(6Z)-6-Octadecenoic acid",
+      "\u03946-cis-Octadecenoic acid",
+      "cis-6-Octadecenoic acid",
+      "6(Z)-Octadecenoic acid [...]",
+      "cis-Petroselinic acid",
+      "cis-\u03946-Octadecenoic acid",
+      "Petroselinic acid",
+      "(Z)-6-Octadecenoic acid",
+      "6-Octadecenoic acid",
+      "(Z)-",
+      "(6Z)-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "175.00 \u20ac",
+      "100 mg": "55.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1812",
+    "name": "11(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCC=CCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/11z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1812_ENG.pdf",
+    "synonyms": [
+      "1",
+      "11-cis-Vaccenic acid",
+      "11-Octadecenoic acid",
+      "cis-"
+    ],
+    "packaging": {
+      "5 x 100 mg": "213.00 \u20ac",
+      "100 mg": "74.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1813",
+    "name": "11(E)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCC=CCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/11e-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1813_ENG.pdf",
+    "synonyms": [
+      "(11E)-11-Octadecenoic acid",
+      "11(E)-Octadecenoic acid",
+      "trans-11-Octadecenoic acid",
+      "11-trans-Octadecenoic acid [...]",
+      "trans-Vaccenic acid",
+      "(E)-Octadec-11-enoic acid",
+      "Vaccenic acid",
+      "trans-\u039411-Octadecenoic acid",
+      "11-Octadecenoic acid",
+      "(E)-",
+      "(E)-11-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "500.00 \u20ac",
+      "100 mg": "160.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1814",
+    "name": "12(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCC=CCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/12z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1814_ENG.pdf",
+    "synonyms": [
+      "(12Z)-12-Octadecenoic acid",
+      "\u039412-cis-Octadecenoic acid",
+      "cis-12-Octadecenoic acid",
+      "(Z)-12-Octadecenoic acid [...]",
+      "12-Octadecenoic acid",
+      "cis-",
+      "12-Octadecenoic acid",
+      "(Z)-",
+      "12Z-Octadecenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1815",
+    "name": "13(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCCCCC=CCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/13z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1815_ENG Ethanol.pdf",
+    "synonyms": [
+      "(13Z)-13-Octadecenoic acid",
+      "cis-13-Octadecenoic acid",
+      "13(Z)-Octadecenoic acid",
+      "(Z)-13-Octadecenoic acid [...]",
+      "\u039413-cis-Octadecenoic acid",
+      "13-Octadecenoic acid",
+      "(Z)-"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "25 mg": ""
+    }
+  },
+  {
+    "id": "10-1818",
+    "name": "8(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(C=CCCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/8z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1818_ENG.pdf",
+    "synonyms": [
+      "1n10",
+      "8-Octadecenoic acid",
+      "(Z)-"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "100 mg": ""
+    }
+  },
+  {
+    "id": "10-1819",
+    "name": "10(Z)-Octadecenoic acid",
+    "CAS": "",
+    "structure": "C18H34O2",
+    "smiles": "C(CCC=CCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/10z-octadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1819_ENG Ethanol.pdf",
+    "synonyms": [
+      "\u039410-cis-Octadecenoic acid",
+      "10-Octadecenoic acid",
+      "(Z)-",
+      "(Z)-10-Octadecenoic acid",
+      "10-cis-Octadecenoic acid [...]",
+      "cis-10-Octadecenoic acid",
+      "cis-\u039410-Octadecenoic acid",
+      "(10Z)-10-Octadecenoic acid"
+    ],
+    "packaging": {
+      "1 mg": "",
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1890",
+    "name": "9-Octadecynoic acid",
+    "CAS": "",
+    "structure": "C18H32O2",
+    "smiles": "C(CC#CCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "280.45",
+    "url": "https://www.larodan.com/product/9-octadecynoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-1890_ENG.pdf",
+    "synonyms": [
+      "Stearolic acid",
+      "9-Stearolic acid",
+      "Octadecanoic acid-9-yne"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1901",
+    "name": "10(Z)-Nonadecenoic acid",
+    "CAS": "",
+    "structure": "C19H36O2",
+    "smiles": "C(CCC=CCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/10z-nonadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "10-Nonadecenoic acid",
+      "(Z)-",
+      "(10Z)-10-Nonadecenoic acid",
+      "cis-10-Nonadecenoic acid",
+      "(Z)-10-Nonadecenoic acid"
+    ],
+    "packaging": {
+      "1 g": "273.00 \u20ac",
+      "100 mg": "69.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1907",
+    "name": "7(Z)-Nonadecenoic acid",
+    "CAS": "",
+    "structure": "C19H36O2",
+    "smiles": "C(=CCCCCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/7z-nonadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "7-Nonadecenoic acid",
+      "(Z)-",
+      "(7Z)-7-Nonadecenoic acid",
+      "cis-7-Nonadecenoic acid",
+      "(Z)-7-Nonadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "138.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1908",
+    "name": "7(E)-Nonadecenoic acid",
+    "CAS": "",
+    "structure": "C19H36O2",
+    "smiles": "C(=CCCCCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/7e-nonadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "7-Nonadecenoic acid",
+      "(E)-",
+      "(7E)-7-Nonadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "161.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-1910",
+    "name": "10(E)-Nonadecenoic acid",
+    "CAS": "",
+    "structure": "C19H36O2",
+    "smiles": "C(CCC=CCCCCCCCC)CCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/10e-nonadecenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "10-Nonadecenoic acid",
+      "(E)-",
+      "(10E)-10-Nonadecenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "138.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2001",
+    "name": "11(Z)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/11z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2001_ENG.pdf",
+    "synonyms": [
+      "11Z-Eicosenoic acid",
+      "Gondoic acid",
+      "(Z)-11-Eicosenoic acid",
+      "cis-\u039411-Eicosenoic acid",
+      "cis-11-Eicosenoic acid [...]",
+      "(11Z)-11-Eicosenoic acid",
+      "11-Eicosenoic acid",
+      "(Z)-",
+      "11-cis-Eicosenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "133.00 \u20ac",
+      "100 mg": "51.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2008",
+    "name": "8(Z)-\u200bEicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(=CCCCCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/8z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "8-Eicosenoic acid",
+      "(Z)-",
+      "(8Z)-8-Eicosenoic acid",
+      "8-cis-Eicosenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "69.00 \u20ac",
+      "100 mg": "161.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2009",
+    "name": "9(Z)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(C=CCCCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/9z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2009_ENG.pdf",
+    "synonyms": [
+      "9-Eicosenoic acid",
+      "(Z)-",
+      "(9Z)-9-Eicosenoic acid",
+      "Gadoleic acid",
+      "cis-9-Eicosenoic acid",
+      "Gondoleic acid",
+      "(Z)-9-Eicosenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "25 mg": "1,150.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2010",
+    "name": "11(E)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/11e-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2010_ENG.pdf",
+    "synonyms": [
+      "11-Eicosenoic acid",
+      "(E)-",
+      "(11E)-11-Eicosenoic acid",
+      "11-trans-Eicosenoic acid",
+      "trans-11-Eicosenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "58.00 \u20ac",
+      "100 mg": "92.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2011",
+    "name": "2(Z)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCCCCCCCCCC)CCCCC=CC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/2z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2011_ENG.pdf",
+    "synonyms": [],
+    "packaging": {
+      "10 mg": "115.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2012",
+    "name": "2(E)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCCCCCCCCCC)CCCCC=CC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/2e-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2012_ENG.pdf",
+    "synonyms": [],
+    "packaging": {
+      "10 mg": "138.00 \u20ac",
+      "50 mg": "554.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2014",
+    "name": "14(Z)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCCCC=CCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/14z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2014_ENG.pdf",
+    "synonyms": [
+      "14-Eicosenoic acid",
+      "(Z)-",
+      "(14Z)-14-Eicosenoic acid"
+    ],
+    "packaging": {
+      "10 mg": "485.00 \u20ac",
+      "50 mg": ""
+    }
+  },
+  {
+    "id": "10-2015",
+    "name": "5(Z)-\u200bEicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCCCCCCCCCC)CC=CCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/5z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "(Z)-5-Eicosenoic acid",
+      "5-Eicosenoic acid",
+      "(Z)-",
+      "cis-\u03945-Eicosenoic acid",
+      "5-cis-Eicosenoic acid",
+      "(5Z)-5-Eicosenoic acid [...]",
+      "cis-5-Eicosenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "81.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2053",
+    "name": "13(Z)-Eicosenoic acid",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCCC=CCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/13z-eicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "(Z)-13-Eicosenoic acid",
+      "(13Z)-13-Eicosenoic acid",
+      "(Z)-13-Eicosaenoic acid",
+      "Paullinic acid",
+      "13-Eicosenoic acid",
+      "(Z)-",
+      "cis-13-Eicosenoic acid"
+    ],
+    "packaging": {
+      "5 mg": "150.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2101",
+    "name": "12(Z)-\u200bHeneicosenoic acid",
+    "CAS": "",
+    "structure": "C21H40O2",
+    "smiles": "C(CCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "324.54",
+    "url": "https://www.larodan.com/product/12z-heneicosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "12-Heneicosenoic acid",
+      "(Z)-",
+      "(12Z)-12-Heneicosenoic acid",
+      "cis-12-Heneicosenoic acid"
+    ],
+    "packaging": {
+      "25 mg": "69.00 \u20ac",
+      "100 mg": "161.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2201",
+    "name": "13(Z)-Docosenoic acid",
+    "CAS": "",
+    "structure": "C22H42O2",
+    "smiles": "C(CCCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/13z-docosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2201_ENG.pdf",
+    "synonyms": [
+      "1",
+      "(Z)-13-Docosenoic acid",
+      "cis-13-Docosenoic acid",
+      "Erucic acid [...]",
+      "13(Z)-Docosenoic acid",
+      "13-Docosenoic acid",
+      "(Z)-",
+      "\u039413-cis-Docosenoic acid",
+      "(Z)-Erucic acid",
+      "cis-13-Erucic acid",
+      "(13Z)-Docosenoic acid",
+      "13-cis-Docosenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "121.00 \u20ac",
+      "100 mg": "41.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2210",
+    "name": "13(E)-Docosenoic acid",
+    "CAS": "",
+    "structure": "C22H42O2",
+    "smiles": "C(CCCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/13e-docosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2210_ENG.pdf",
+    "synonyms": [
+      "NSC 59686",
+      "13-Docosenoic acid",
+      "(E)-",
+      "(E)-13-Docosenoic acid",
+      "(13E)-13-Docosenoic acid",
+      "Brassidic acid",
+      "trans-13-Docosenoic acid"
+    ],
+    "packaging": {
+      "5 x 100 mg": "173.00 \u20ac",
+      "100 mg": "61.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2211",
+    "name": "11(Z)-Docosenoic acid",
+    "CAS": "",
+    "structure": "C22H42O2",
+    "smiles": "C(CCC=CCCCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/11z-docosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2211_ENG-Ethanol.pdf",
+    "synonyms": [
+      "Cetoleic acid",
+      "(11Z)-11-Docosenoic acid",
+      "(Z)-11-Docosenoic acid",
+      "11-Docosenoic acid",
+      "(Z)-",
+      "cis-Docos-11-enoic acid",
+      "11-Docosenoic acid",
+      "cis-"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2301",
+    "name": "14(Z)-Tricosenoic acid",
+    "CAS": "",
+    "structure": "C23H44O2",
+    "smiles": "C(CCCCC=CCCCCCCCC)CCCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "352.6",
+    "url": "https://www.larodan.com/product/14z-tricosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "1(\u03c9-9)"
+    ],
+    "packaging": {
+      "100 mg": "184.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2401",
+    "name": "15(Z)-Tetracosenoic acid",
+    "CAS": "",
+    "structure": "C24H46O2",
+    "smiles": "C(CCCCCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "366.62",
+    "url": "https://www.larodan.com/product/15z-tetracosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2401_ENG.pdf",
+    "synonyms": [
+      "cis-15-Tetracosenoic acid",
+      "Nervonic acid",
+      "(15Z)-Tetracosenoic acid",
+      "15Z-Tetracosenoic acid",
+      "15-Tetracosenoic acid",
+      "(Z)- [...]",
+      "15-Tetracosenoic acid",
+      "cis-",
+      "Selacholeic acid",
+      "(15Z)-15-Tetracosenoic acid",
+      "(Z)-15-Tetracosenoic acid",
+      "Nevonic acid"
+    ],
+    "packaging": {
+      "1 g": "169.00 \u20ac",
+      "5 x 100 mg": "190.00 \u20ac",
+      "100 mg": "55.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2408",
+    "name": "15(E)-Tetracosenoic acid",
+    "CAS": "",
+    "structure": "C24H46O2",
+    "smiles": "C(CCCCCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "366.62",
+    "url": "https://www.larodan.com/product/15e-tetracosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2408_ENG.pdf",
+    "synonyms": [
+      "trans-Nervonic acid",
+      "15-Tetracosenoic acid",
+      "(E)-",
+      "(15E)-15-Tetracosenoic acid",
+      "trans-Tetracos-15-enoic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2501",
+    "name": "16(Z)-Pentacosenoic acid",
+    "CAS": "",
+    "structure": "C25H48O2",
+    "smiles": "C(CCCCCCCC=CCCCCCCCC)CCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "380.65",
+    "url": "https://www.larodan.com/product/16z-pentacosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "1 \u03c9-9"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac"
+    }
+  },
+  {
+    "id": "10-2601",
+    "name": "17(Z)-Hexacosenoic acid",
+    "CAS": "",
+    "structure": "C26H50O2",
+    "smiles": "C(CCCCCCCC=CCCCCCCCC)CCCCCCCC(O)=O",
+    "description": "",
+    "molecular_weight": "394.67",
+    "url": "https://www.larodan.com/product/17z-hexacosenoic-acid/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "https://www.larodan.com/media/10-2601_ENG.pdf",
+    "synonyms": [
+      "17-Hexacosenoic acid",
+      "(Z)-",
+      "(Z)-17-Hexacosenoic acid",
+      "cis-17-Hexacosenoic acid",
+      "(17Z)-17-Hexacosenoic acid",
+      "Ximenic acid"
+    ],
+    "packaging": {
+      "5 mg": "345.00 \u20ac",
+      "25 mg": "1,150.00 \u20ac"
+    }
+  },
+  {
+    "id": "20-1910",
+    "name": "Methyl 10(E)-nonadecenoate",
+    "CAS": "",
+    "structure": "C20H38O2",
+    "smiles": "C(CCCC/C=C/CCCCCCCC)CCCC(OC)=O",
+    "description": "",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/methyl-10e-nonadecenoate/",
+    "image_path": "",
+    "img": "",
+    "pdf_msds": "",
+    "synonyms": [
+      "Methyl trans-10-nonadecenoate"
+    ],
+    "packaging": {
+      "25 mg": ""
+    }
+  }
+]
